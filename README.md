@@ -9,7 +9,7 @@ Cleveland Heart Disease Dataset — 303 records, 14 features
 Source: UCI Machine Learning Repository / Kaggle
 
 ## Tech Stack
-Python 3.10 | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | TensorFlow/Keras
+Python 3.11 | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | TensorFlow/Keras
 
 ## Results
 - Test Accuracy: ~86%
